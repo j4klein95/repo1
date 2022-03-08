@@ -3,6 +3,8 @@
  library(tidyverse)
  library(lubridate)
 
+# My name is James Dickens
+
 # A function is a structured and sequenced set of commands 
 # that process input values to produce output values efficiently.
 # A function reduces repetitive calculations that often result 
@@ -25,7 +27,7 @@
 # There is certainly a high risk for errors i.e. data entry 
 # or misuse of the formula for a problem.
  
-# Were any errors committed in the executions above ?
+
  
 # We now use a function for this problem to reduce repetitive
 # calculations and possible errors
