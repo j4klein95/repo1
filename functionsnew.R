@@ -1,9 +1,9 @@
 # DS 413/613
-# Functions  Chapters 15 and 17
+# FUNCTIONS: Chapters fifteen and seventeen
  library(tidyverse)
  library(lubridate)
 
-# My name is James Dickens
+# My name is James Dickens I enjoy baseball
 
 # A function is a structured and sequenced set of commands 
 # that process input values to produce output values efficiently.
