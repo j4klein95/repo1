@@ -1,6 +1,6 @@
 library(tidyverse)
+library(dplyer)
 
-iris
 
 ggplot(iris, aes(x = Sepal.Length)) + 
 geom_freqpoly(bins = 15, color = "blue", 
