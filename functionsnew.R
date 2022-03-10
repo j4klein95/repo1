@@ -1,6 +1,6 @@
 # DS 413/613
 # FUNCTIONS: Chapters fifteen and seventeen
-# Studying functions is fun
+# James Dickens
  library(tidyverse)
  library(lubridate)
 
