@@ -1,6 +1,6 @@
 # DS 413/613
-# FUNCTIONS: Chapters fifteen and seventeen
-# James Dickens
+# FUNCTIONS: Chapters Fifteen and Seventeen
+# James C Dickens
  library(tidyverse)
  library(lubridate)
 
